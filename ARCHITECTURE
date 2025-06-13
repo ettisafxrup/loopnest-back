@@ -1,0 +1,11 @@
+📁 Application Structure:
+
+.
+├── 📂 data
+│   ├── mails.js
+├── index.js
+├── nodemon.json
+├── package.json
+├── package-lock.json
+├── 📂 routes
+│   ├── login.js
