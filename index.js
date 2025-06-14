@@ -3,6 +3,9 @@ const app = express()
 const PORT = 3000
 const matchData = require("./routes/login")
 const bodyParser = require("body-parser")
+const cors = require("cors")
+
+app.use(cors())
 
 // Middleware to parse JSON
 app.use(express.json())
