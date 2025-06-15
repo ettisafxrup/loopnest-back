@@ -3,7 +3,9 @@ const paidEmails = require("../data/mails.js")
 let result = {}
 
 function matchData(input) {
-  let existedUser = paidEmails.find((user) => user.email == input.email)
+  let existedUser = paidEmails.find(
+    (user) => user.email.toLowerCase() == input.email.toLowerCase()
+  )
 
   if (!input) {
     result = { match: false, message: "No email found." }
