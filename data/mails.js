@@ -24,6 +24,8 @@ const paidEmails = [
   { name: "Rafi", email: "musrafi311113@gmail.com" },
   { name: "Faraz Jamil Chowdhury", email: "chowdhuryfaraz584@gmail.com" },
   { name: "Apurup Aich", email: "apurupaich@gmail.com" },
+  { name: "Surjo Kumar", email: "surjokumar3854@gmail.com" },
+  { name: "Biraj", email: "biraj1996kar@gmail.com" },
 ]
 
 module.exports = paidEmails
