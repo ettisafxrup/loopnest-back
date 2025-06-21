@@ -1,5 +1,5 @@
 const paidEmails = [
-  { name: "Admin", email: "admin@loopnest.academy" },
+  { name: "Admin", email: "root@loopnest.academy" },
   { name: "Dip Chowdhury", email: "dipcse347333@gmail.com" },
   { name: "Sadia Alamgir Ashra", email: "saashra13@gmail.com" },
   { name: "MD Tusar", email: "tusar01ja@gmail" },
