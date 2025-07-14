@@ -16,6 +16,7 @@ const paidEmails = [
   { name: "Ehsan Al Baqui", email: "ehsan.eab@gmail.com" },
   { name: "Saker Ahmed Hridoy", email: "imsakerahmed@gmail.com" },
   { name: "Md. Zahid Hasan", email: "zahid.hasan.8910@gmail.com" },
+  { name: "Harek", email: "harek5456@gmail.com" },
   {
     name: "Sheikh Md. Taufiq Hossain Abir",
     email: "taufiqhosssainabir@gmail.com",
